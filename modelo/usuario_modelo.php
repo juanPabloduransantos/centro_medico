@@ -38,7 +38,7 @@
     
     // probar consulta a BD
 
-    *$user = 'admin3';
+    /*$user = 'admin3';
     $pass = 12345;
 
     echo 'Probando consulta...';
